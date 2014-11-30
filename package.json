@@ -1,0 +1,11 @@
+{
+  "name": "Stats",
+  "version": "0.0.1",
+  "description": "JS Statistics Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Giordanella",
+  "license": "ISC"
+}
