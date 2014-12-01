@@ -1,6 +1,6 @@
 var chai = require('chai');
 var expect = chai.expect;
-var stats = require('../lib/stats');
+var stats = require('../../lib/stats');
 
 describe('Helper functions', function() {
 	describe('sum', function() {

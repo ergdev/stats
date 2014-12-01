@@ -1,6 +1,6 @@
 var chai = require('chai');
 var expect = chai.expect;
-var stats = require('../lib/stats');
+var stats = require('../../lib/stats');
 
 describe('Covariance', function() {
     it('should return the population covariance from two arrays of ints', function() {

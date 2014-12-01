@@ -1,6 +1,6 @@
 var chai = require('chai');
 var expect = chai.expect;
-var stats = require('../lib/stats');
+var stats = require('../../lib/stats');
 
 describe('Geometric Mean', function() {
     it('should return the geometric mean of an array of ints', function() {

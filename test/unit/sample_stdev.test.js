@@ -1,6 +1,6 @@
 var chai = require('chai');
 var expect = chai.expect;
-var stats = require('../lib/stats');
+var stats = require('../../lib/stats');
 
 describe('Standard Deviation', function() {
     it('should return the standard deviation of an array of ints', function() {

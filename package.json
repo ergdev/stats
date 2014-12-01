@@ -10,9 +10,10 @@
     "lodash": "~2.4.1"
   },
   "devDependencies": {
-  	"chai": "~1.10.0",
-  	"mocha": "2.0.1"
-  	},
+    "chai": "~1.10.0",
+    "mocha": "~2.0.1",
+    "istanbul": "~0.3.2"
+  },
   "scripts": {
     "test": "make test"
   },
